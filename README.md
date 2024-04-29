@@ -5,8 +5,8 @@
 This repository contains a visual analysis of water quality data obtained from Kaggle. The dataset provides insights into water quality parameters measured across different water bodies.
 ### Dataset
 The dataset consists of the following columns:
-  Sample ID
-  Grab ID
+  Sample ID, 
+  Grab ID, 
   Profile ID
   Sample Number
   Collect DateTime
